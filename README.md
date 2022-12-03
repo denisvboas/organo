@@ -10,5 +10,8 @@ O Organo é uma aplicação desenvolvida no curso React: desenvolvimento com Jav
 - CSS
 - Node e NPM
 
+## Link do projeto
+
+https://organo-js.netlify.app/
 
 
